@@ -1,0 +1,11 @@
+C:\AzureIoTSDK\TriggerFWUpdate\bin\Debug\netcoreapp2.1\TriggerFWUpdate.deps.json
+C:\AzureIoTSDK\TriggerFWUpdate\bin\Debug\netcoreapp2.1\TriggerFWUpdate.runtimeconfig.json
+C:\AzureIoTSDK\TriggerFWUpdate\bin\Debug\netcoreapp2.1\TriggerFWUpdate.runtimeconfig.dev.json
+C:\AzureIoTSDK\TriggerFWUpdate\bin\Debug\netcoreapp2.1\TriggerFWUpdate.dll
+C:\AzureIoTSDK\TriggerFWUpdate\bin\Debug\netcoreapp2.1\TriggerFWUpdate.pdb
+C:\AzureIoTSDK\TriggerFWUpdate\obj\Debug\netcoreapp2.1\TriggerFWUpdate.csprojAssemblyReference.cache
+C:\AzureIoTSDK\TriggerFWUpdate\obj\Debug\netcoreapp2.1\TriggerFWUpdate.csproj.CoreCompileInputs.cache
+C:\AzureIoTSDK\TriggerFWUpdate\obj\Debug\netcoreapp2.1\TriggerFWUpdate.AssemblyInfoInputs.cache
+C:\AzureIoTSDK\TriggerFWUpdate\obj\Debug\netcoreapp2.1\TriggerFWUpdate.AssemblyInfo.cs
+C:\AzureIoTSDK\TriggerFWUpdate\obj\Debug\netcoreapp2.1\TriggerFWUpdate.dll
+C:\AzureIoTSDK\TriggerFWUpdate\obj\Debug\netcoreapp2.1\TriggerFWUpdate.pdb

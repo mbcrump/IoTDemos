@@ -1,0 +1,11 @@
+C:\AzureIoTSDK\SimulatedDeviceFWUpdate\bin\Debug\netcoreapp2.1\SimulatedDeviceFWUpdate.deps.json
+C:\AzureIoTSDK\SimulatedDeviceFWUpdate\bin\Debug\netcoreapp2.1\SimulatedDeviceFWUpdate.runtimeconfig.json
+C:\AzureIoTSDK\SimulatedDeviceFWUpdate\bin\Debug\netcoreapp2.1\SimulatedDeviceFWUpdate.runtimeconfig.dev.json
+C:\AzureIoTSDK\SimulatedDeviceFWUpdate\bin\Debug\netcoreapp2.1\SimulatedDeviceFWUpdate.dll
+C:\AzureIoTSDK\SimulatedDeviceFWUpdate\bin\Debug\netcoreapp2.1\SimulatedDeviceFWUpdate.pdb
+C:\AzureIoTSDK\SimulatedDeviceFWUpdate\obj\Debug\netcoreapp2.1\SimulatedDeviceFWUpdate.csprojAssemblyReference.cache
+C:\AzureIoTSDK\SimulatedDeviceFWUpdate\obj\Debug\netcoreapp2.1\SimulatedDeviceFWUpdate.csproj.CoreCompileInputs.cache
+C:\AzureIoTSDK\SimulatedDeviceFWUpdate\obj\Debug\netcoreapp2.1\SimulatedDeviceFWUpdate.AssemblyInfoInputs.cache
+C:\AzureIoTSDK\SimulatedDeviceFWUpdate\obj\Debug\netcoreapp2.1\SimulatedDeviceFWUpdate.AssemblyInfo.cs
+C:\AzureIoTSDK\SimulatedDeviceFWUpdate\obj\Debug\netcoreapp2.1\SimulatedDeviceFWUpdate.dll
+C:\AzureIoTSDK\SimulatedDeviceFWUpdate\obj\Debug\netcoreapp2.1\SimulatedDeviceFWUpdate.pdb

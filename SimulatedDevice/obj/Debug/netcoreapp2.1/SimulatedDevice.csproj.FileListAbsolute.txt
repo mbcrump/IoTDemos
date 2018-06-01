@@ -1,0 +1,11 @@
+C:\AzureIoTSDK\SimulatedDevice\bin\Debug\netcoreapp2.1\SimulatedDevice.deps.json
+C:\AzureIoTSDK\SimulatedDevice\bin\Debug\netcoreapp2.1\SimulatedDevice.runtimeconfig.json
+C:\AzureIoTSDK\SimulatedDevice\bin\Debug\netcoreapp2.1\SimulatedDevice.runtimeconfig.dev.json
+C:\AzureIoTSDK\SimulatedDevice\bin\Debug\netcoreapp2.1\SimulatedDevice.dll
+C:\AzureIoTSDK\SimulatedDevice\bin\Debug\netcoreapp2.1\SimulatedDevice.pdb
+C:\AzureIoTSDK\SimulatedDevice\obj\Debug\netcoreapp2.1\SimulatedDevice.csprojAssemblyReference.cache
+C:\AzureIoTSDK\SimulatedDevice\obj\Debug\netcoreapp2.1\SimulatedDevice.csproj.CoreCompileInputs.cache
+C:\AzureIoTSDK\SimulatedDevice\obj\Debug\netcoreapp2.1\SimulatedDevice.AssemblyInfoInputs.cache
+C:\AzureIoTSDK\SimulatedDevice\obj\Debug\netcoreapp2.1\SimulatedDevice.AssemblyInfo.cs
+C:\AzureIoTSDK\SimulatedDevice\obj\Debug\netcoreapp2.1\SimulatedDevice.dll
+C:\AzureIoTSDK\SimulatedDevice\obj\Debug\netcoreapp2.1\SimulatedDevice.pdb
